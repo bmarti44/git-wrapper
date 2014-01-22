@@ -1,7 +1,7 @@
 # Overview
 
-[![Build Status](https://travis-ci.org/cpliakas/git-wrapper.png)](https://travis-ci.org/cpliakas/git-wrapper)
-[![Coverage Status](https://coveralls.io/repos/cpliakas/git-wrapper/badge.png?branch=master)](https://coveralls.io/r/cpliakas/git-wrapper?branch=master)
+[![Build Status](https://travis-ci.org/cpliakas/git-wrapper.png?branch=1.2)](https://travis-ci.org/cpliakas/git-wrapper)
+[![Coverage Status](https://coveralls.io/repos/cpliakas/git-wrapper/badge.png?branch=1.2)](https://coveralls.io/r/cpliakas/git-wrapper?branch=1.2)
 [![Total Downloads](https://poser.pugx.org/cpliakas/git-wrapper/downloads.png)](https://packagist.org/packages/cpliakas/git-wrapper)
 [![Latest Stable Version](https://poser.pugx.org/cpliakas/git-wrapper/v/stable.png)](https://packagist.org/packages/cpliakas/git-wrapper)
 
@@ -81,7 +81,7 @@ the library as a dependency to your composer.json file.
 ```json
 {
     "require": {
-        "cpliakas/git-wrapper": "~1.0"
+        "cpliakas/git-wrapper": "1.2.*"
     }
 }
 ```
