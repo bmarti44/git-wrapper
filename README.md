@@ -81,7 +81,7 @@ the library as a dependency to your composer.json file.
 ```json
 {
     "require": {
-        "cpliakas/git-wrapper": "~1.0.0"
+        "cpliakas/git-wrapper": "1.0.*"
     }
 }
 ```
